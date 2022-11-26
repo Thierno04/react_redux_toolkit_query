@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "name": "React for beginners",
+      "author": "Thiernos",
+      "id": 1
+    },
+    {
+      "name": "Vue for beginners",
+      "author": "Baben",
+      "id": 2
+    },
+    {
+      "name": "Node for beginners",
+      "author": "Axel",
+      "id": 3
+    },
+    {
+      "name": "Thierno Mamadou Barry",
+      "author": "frontend",
+      "id": 4
+    }
+  ],
+  "users": []
+}
